@@ -4,3 +4,6 @@
 [submodule "config-server"]
 	path = config-server
 	url = https://github.com/satyamaarav/git-config-server.git
+[submodule "config-sever"]
+	path = config-sever
+	url = https://github.com/satyamaarav/config-server.git
