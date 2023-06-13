@@ -7,3 +7,6 @@
 [submodule "config-sever"]
 	path = config-sever
 	url = https://github.com/satyamaarav/config-server.git
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/satyamaarav/eureka_server.git
