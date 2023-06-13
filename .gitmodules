@@ -1,3 +1,6 @@
 [submodule "patient"]
 	path = patient
 	url = https://github.com/satyamaarav/patient.git
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/satyamaarav/git-config-server.git
